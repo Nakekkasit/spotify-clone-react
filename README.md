@@ -1,8 +1,12 @@
-# React + Vite
+## Songaddict: Music Streaming App with React JS, React Router, Context API, Tailwind
+## Deployed App : 👉 [songaddict](https://songaddict.netlify.app/)
+### 🏛 App Features :
+### 1.Music Playing
+- Music Playback: Play, pause, skip. Add a progress bar for song timing.
+### 2. Music Library 
+- A collection of songs categorized by genre, artist, album, and playlists, allowing users to browse and explore.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
